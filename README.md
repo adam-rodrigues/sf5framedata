@@ -9,8 +9,8 @@ This is a self made android application allowing one to quickly check move frame
 * Android Studio
 
 ### Screenshots
-Main Menu/Character Select
+![Alt text](/sf5framedata/Snippets/res/drawable/Main Menu Screenshot.png?raw=true "Main Menu/Character Select")
 
-Move Select
+![Alt text](/sf5framedata/Snippets/res/drawable/Move Menu Screenshot.png?raw=true "Move Select")
 
-Move Frame Data
+![Alt text](/sf5framedata/Snippets/res/drawable/Framedata Screenshot.png?raw=true "Move Frame Data")
