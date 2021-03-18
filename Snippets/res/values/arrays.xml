@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--All Character Names-->
+    <string-array name="names_popular">
+        <item>@string/ryu_name</item>
+        <item>@string/ken_name</item>
+        <item>@string/akuma_name</item>
+        <item>@string/kage_name</item>
+        <item>@string/guile_name</item>
+        <item>@string/cammy_name</item>
+        <item>@string/zangief_name</item>
+        <item>@string/bison_name</item>
+        <item>@string/karin_name</item>
+        <item>@string/sakura_name</item>
+        <item>@string/chun_name</item>
+        <item>@string/urien_name</item>
+        <item>@string/seth_name</item>
+        <item>@string/laura_name</item>
+        <item>@string/alex_name</item>
+        <item>@string/juri_name</item>
+        <item>@string/sagat_name</item>
+        <item>@string/gill_name</item>
+        <item>@string/balrog_name</item>
+        <item>@string/ed_name</item>
+        <item>@string/abigail_name</item>
+        <item>@string/nash_name</item>
+        <item>@string/honda_name</item>
+        <item>@string/g_name</item>
+        <item>@string/kolin_name</item>
+        <item>@string/lucia_name</item>
+        <item>@string/cody_name</item>
+        <item>@string/zeku_name</item>
+        <item>@string/mika_name</item>
+        <item>@string/vega_name</item>
+        <item>@string/ibuki_name</item>
+        <item>@string/necalli_name</item>
+        <item>@string/poison_name</item>
+        <item>@string/rashid_name</item>
+        <item>@string/birdie_name</item>
+        <item>@string/dhalsim_name</item>
+        <item>@string/menat_name</item>
+        <item>@string/blanka_name</item>
+        <item>@string/falke_name</item>
+        <item>@string/fang_name</item>
+    </string-array>
+
+    <!--All Character Portraits-->
+    <array name="images">
+        <item>@drawable/portrait_ryu</item>
+        <item>@drawable/portrait_ken</item>
+        <item>@drawable/portrait_akuma</item>
+        <item>@drawable/portrait_kage</item>
+        <item>@drawable/portrait_guile</item>
+        <item>@drawable/portrait_cammy</item>
+        <item>@drawable/portrait_zangief</item>
+        <item>@drawable/portrait_mbison</item>
+        <item>@drawable/portrait_karin</item>
+        <item>@drawable/portrait_sakura</item>
+        <item>@drawable/portrait_chun_li</item>
+        <item>@drawable/portrait_urien</item>
+        <item>@drawable/portrait_seth</item>
+        <item>@drawable/portrait_laura</item>
+        <item>@drawable/portrait_alex</item>
+        <item>@drawable/portrait_juri</item>
+        <item>@drawable/portrait_sagat</item>
+        <item>@drawable/portrait_gill</item>
+        <item>@drawable/portrait_balrog</item>
+        <item>@drawable/portrait_ed</item>
+        <item>@drawable/portrait_abigail</item>
+        <item>@drawable/portrait_nash</item>
+        <item>@drawable/portrait_ehonda</item>
+        <item>@drawable/portrait_g</item>
+        <item>@drawable/portrait_kolin</item>
+        <item>@drawable/portrait_lucia</item>
+        <item>@drawable/portrait_cody</item>
+        <item>@drawable/portrait_zeku</item>
+        <item>@drawable/portrait_rmika</item>
+        <item>@drawable/portrait_vega</item>
+        <item>@drawable/portrait_ibuki</item>
+        <item>@drawable/portrait_necalli</item>
+        <item>@drawable/portrait_poison</item>
+        <item>@drawable/portrait_rashid</item>
+        <item>@drawable/portrait_birdie</item>
+        <item>@drawable/portrait_dhalsim</item>
+        <item>@drawable/portrait_menat</item>
+        <item>@drawable/portrait_blanka</item>
+        <item>@drawable/portrait_falke</item>
+        <item>@drawable/portrait_fang</item>
+    </array>
+
+    <!--Collection of Character Attributes-->
+    <array name="ryu_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="ken_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="akuma_attributes">
+        <item>@drawable/five_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="kage_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="guile_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="cammy_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="zangief_attributes">
+        <item>@drawable/five_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/one_bar</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="m.bison_attributes">
+        <item>@drawable/five_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="karin_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/two_bars</item>
+    </array>
+
+    <array name="sakura_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="chunli_attributes">
+        <item>@drawable/two_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="urien_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="seth_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="laura_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/one_bar</item>
+    </array>
+
+    <array name="alex_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+    </array>
+
+    <array name="juri_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/two_bars</item>
+    </array>
+
+    <array name="sagat_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/five_bars</item>
+    </array>
+
+    <array name="gill_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="balrog_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+    </array>
+
+    <array name="ed_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="abigail_attributes">
+        <item>@drawable/five_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/one_bar</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/five_bars</item>
+    </array>
+
+    <array name="nash_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="ehonda_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/two_bars</item>
+    </array>
+
+    <array name="g_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="kolin_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="lucia_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="cody_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="zeku_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="r.mika_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/one_bar</item>
+    </array>
+
+    <array name="vega_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="ibuki_attributes">
+        <item>@drawable/two_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+    </array>
+
+    <array name="necalli_attributes">
+        <item>@drawable/five_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="poison_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/five_bars</item>
+    </array>
+
+    <array name="rashid_attributes">
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+    </array>
+
+    <array name="birdie_attributes">
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/one_bar</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="dhalsim_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/one_bar</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/five_bars</item>
+    </array>
+
+    <array name="menat_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/five_bars</item>
+    </array>
+
+    <array name="blanka_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/five_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+    </array>
+
+    <array name="falke_attributes">
+        <item>@drawable/three_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/two_bars</item>
+        <item>@drawable/four_bars</item>
+        <item>@drawable/four_bars</item>
+    </array>
+
+    <array name="fang_attributes">
+        <item>@drawable/two_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/three_bars</item>
+        <item>@drawable/five_bars</item>
+    </array>
+</resources>

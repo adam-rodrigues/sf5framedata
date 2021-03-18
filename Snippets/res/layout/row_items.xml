@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/character_card_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/portrait_fang" />
+
+    <TextView
+        android:id="@+id/character_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/character_card_image"
+        android:layout_marginStart="10sp"
+        android:layout_marginTop="200sp"
+        android:text="F.A.N.G"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/power_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/character_label"
+        android:layout_alignStart="@id/character_label"
+        android:text="@string/power_label"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/power_bars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/power_label"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginEnd="10sp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/one_bar" />
+
+    <TextView
+        android:id="@+id/health_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/power_bars"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginTop="4dp"
+        android:text="@string/health_label"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/health_bars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/health_label"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginEnd="10sp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/one_bar" />
+
+    <TextView
+        android:id="@+id/mobility_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/health_bars"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginTop="4dp"
+        android:text="@string/mobility_label"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/mobility_bars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mobility_label"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginEnd="10sp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/one_bar" />
+
+    <TextView
+        android:id="@+id/techniques_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mobility_bars"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginTop="4dp"
+        android:text="@string/technique_label"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/technique_bars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/techniques_label"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginEnd="10sp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/one_bar" />
+
+    <TextView
+        android:id="@+id/range_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/technique_bars"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginTop="4dp"
+        android:text="@string/range_label"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/range_bars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/range_label"
+        android:layout_alignStart="@id/character_label"
+        android:layout_marginEnd="10sp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/one_bar" />
+
+</RelativeLayout>

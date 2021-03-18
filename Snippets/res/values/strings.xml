@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SF5 Character Framedata</string>
+
+    <!--Character Names-->
+    <string name="ryu_name">Ryu</string>
+    <string name="balrog_name">Balrog</string>
+    <string name="g_name">G</string>
+    <string name="kolin_name">Kolin</string>
+    <string name="honda_name">E Honda</string>
+    <string name="abigail_name">Abigail</string>
+    <string name="sagat_name">Sagat</string>
+    <string name="laura_name">Laura</string>
+    <string name="gill_name">Gill</string>
+    <string name="seth_name">Seth</string>
+    <string name="chun_name">Chun-Li</string>
+    <string name="karin_name">Karin</string>
+    <string name="urien_name">Urien</string>
+    <string name="zangief_name">Zangief</string>
+    <string name="cammy_name">Cammy</string>
+    <string name="bison_name">M. Bison</string>
+    <string name="kage_name">Kage</string>
+    <string name="guile_name">Guile</string>
+    <string name="akuma_name">Akuma</string>
+    <string name="ken_name">Ken</string>
+    <string name="ed_name">Ed</string>
+    <string name="nash_name">Nash</string>
+    <string name="alex_name">Alex</string>
+    <string name="zeku_name">Zeku</string>
+    <string name="cody_name">Cody</string>
+    <string name="mika_name">R. Mika</string>
+    <string name="lucia_name">Lucia</string>
+    <string name="ibuki_name">Ibuki</string>
+    <string name="necalli_name">Necalli</string>
+    <string name="sakura_name">Sakura</string>
+    <string name="vega_name">Vega</string>
+    <string name="poison_name">Poison</string>
+    <string name="rashid_name">Rashid</string>
+    <string name="birdie_name">Birdie</string>
+    <string name="dhalsim_name">Dhalsim</string>
+    <string name="blanka_name">Blanka</string>
+    <string name="menat_name">Menat</string>
+    <string name="falke_name">Falke</string>
+    <string name="fang_name">F.A.N.G</string>
+    <string name="juri_name">Juri</string>
+
+    <!--Field Labels-->
+    <string name="move_name_label">NAME</string>
+    <string name="active_label">ACTIVE</string>
+    <string name="damage_label">DAMAGE</string>
+    <string name="block_label">ON BLOCK</string>
+    <string name="hit_label">ON HIT</string>
+    <string name="recovery_Label">RECOVERY</string>
+    <string name="start_up_label">START UP</string>
+    <string name="stun_label">STUN</string>
+    <string name="type_label">TYPE</string>
+
+    <!--Card Attribute Labels-->
+    <string name="power_label">POWER</string>
+    <string name="health_label">HEALTH</string>
+    <string name="mobility_label">MOBILITY</string>
+    <string name="technique_label">TECHNIQUES</string>
+    <string name="range_label">RANGE</string>
+
+    <!--Error Text-->
+    <string name="data_retrieval_error">Data Currently Unreachable</string>
+</resources>
