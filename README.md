@@ -9,8 +9,18 @@ This is a self made android application allowing one to quickly check move frame
 * Android Studio
 
 ### Screenshots
-![Alt text](/sf5framedata/Snippets/res/drawable/Main Menu Screenshot.png?raw=true "Main Menu/Character Select")
+To see non-downscaled screenshots look in /Snippets/res/drawable/
 
-![Alt text](/sf5framedata/Snippets/res/drawable/Move Menu Screenshot.png?raw=true "Move Select")
 
-![Alt text](/sf5framedata/Snippets/res/drawable/Framedata Screenshot.png?raw=true "Move Frame Data")
+Main Menu/Character Select
+
+<img src="https://github.com/adam-rodrigues/sf5framedata/blob/main/Snippets/res/drawable/Main%20Menu%20Screenshot.png" alt="Main Menu" width="360" height="640">
+
+Move Menu
+
+<img src="https://github.com/adam-rodrigues/sf5framedata/blob/main/Snippets/res/drawable/Move%20Menu%20Screenshot.png" alt="Move Select" width="360" height="640">
+
+Move Frame Data
+
+<img src="https://github.com/adam-rodrigues/sf5framedata/blob/main/Snippets/res/drawable/Framedata%20Screenshot.png" alt="Move Frame Data" width="360" height="640">
+
